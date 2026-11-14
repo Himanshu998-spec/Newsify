@@ -85,7 +85,7 @@ Add screenshots of your application here after uploading them to your GitHub rep
 Example:
 
 ```markdown
-![Newsify Application]("C:\Users\HP\OneDrive\Documents\Desktop\Python\NewsApplicationNew\Newsify.png")
+![Newsify Application]("newsify.png")
 ```
 
 ## 🎯 Learning Objectives
