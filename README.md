@@ -85,7 +85,7 @@ Add screenshots of your application here after uploading them to your GitHub rep
 Example:
 
 ```markdown
-![Newsify Application](https://github.com/Himanshu998-spec/Newsify/blob/main/Newsify.png)
+![Newsify Application](https://github.com/Himanshu998-spec/Newsify/raw/main/Newsify.png)
 ```
 
 ## 🎯 Learning Objectives
